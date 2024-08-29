@@ -60,5 +60,5 @@ Depending on which bootcamp you're from, your command will be different:
 
 This will give you a terminal output such as:
 
-![A screenshot depicting the text output of this project.](image.png)
+![A screenshot depicting the text output of this project.](./docs/image.png)
 
