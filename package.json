@@ -1,0 +1,13 @@
+{
+  "name": "gpa-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dit":"node src/dit-gpa.js",
+    "start:dwd":"node src/dwd-gpa.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
